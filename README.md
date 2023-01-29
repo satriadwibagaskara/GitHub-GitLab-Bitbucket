@@ -4,6 +4,9 @@ These are Data Science projects I completed when going through the Data Science 
 | Project              | Description                 | Libraries                 |
 | :-------------------- | ---------------------: |:---------------------------:|
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
+|     rata kiri      |     rata kanan     |      dan rata tengah          |
+|     rata kiri      |     rata kanan     |      dan rata tengah          |
+|     rata kiri      |     rata kanan     |      dan rata tengah          |
 
 
 [Judul tautan](http://www.example.com "Link title")
