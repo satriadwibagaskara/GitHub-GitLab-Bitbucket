@@ -3,7 +3,7 @@ These are Data Science projects I completed when going through the Data Science 
 
 | Project              | Description                 | Libraries                 |
 | :-------------------- | :--------------------- |:---------------------------|
-|     [Bank Credit Score Analysis]      |     Credit scoring is used to evaluate the ability of potential borrowers to repay their loans.     |    Pandas        |
+|     [Bank Credit Score Analysis](https://github.com/satriadwibagaskara/yandex-practicum/blob/main/Bank_Credit_Score_Analysis.ipynb)      |     Credit scoring is used to evaluate the ability of potential borrowers to repay their loans.     |    Pandas        |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
