@@ -1,6 +1,10 @@
 # Practicum by Yandex Projects
 These are Data Science projects I completed when going through the Data Science training course in Practicum by Yandex. They involve Data Preprocessing, Data Exploratory Analysis, SQL, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
+| Markdown              | tabel                 | dapat dibuat                 |
+| :-------------------- | ---------------------: |:---------------------------:|
+|     rata kiri      |     rata kanan     |      dan rata tengah          |
+
 # Judul atau heading tingkat 1
 ## Judul atau heading tingkat 2
 ### Judul atau heading tingkat 3
@@ -20,9 +24,7 @@ These are Data Science projects I completed when going through the Data Science 
     1. Subitem
     2. Dan subitem lainnya
 
-| Markdown              | tabel                 | dapat dibuat                      |
-| :-------------------- | ---------------------: |:---------------------------:|
-|     rata kiri      |     rata kanan     |      dan rata tengah          |
+
 
 
 [Judul tautan](http://www.example.com "Link title")
