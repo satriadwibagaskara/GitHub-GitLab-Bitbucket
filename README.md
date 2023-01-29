@@ -2,8 +2,8 @@
 These are Data Science projects I completed when going through the Data Science training course in Practicum by Yandex. They involve Data Preprocessing, Data Exploratory Analysis, SQL, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
 | Project              | Description                 | Libraries                 |
-| :-------------------- | ---------------------: |:---------------------------:|
-|     rata kiri      |     rata kanan     |      dan rata tengah          |
+| :-------------------- | :--------------------- |:---------------------------|
+|     [Bank Credit Score Analysis]      |     Credit scoring is used to evaluate the ability of potential borrowers to repay their loans.     |    Pandas        |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
 |     rata kiri      |     rata kanan     |      dan rata tengah          |
